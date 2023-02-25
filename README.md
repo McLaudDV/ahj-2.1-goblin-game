@@ -1,10 +1,5 @@
-# Webpack5
+[![Build status](https://ci.appveyor.com/api/projects/status/v50y3da0fcwa952h?svg=true)](https://ci.appveyor.com/project/McLaudDV/ahj-2-1-goblin-game)
+![CI](https://github.com/<McLaudDV>/<ahj-2-1-goblin-game>/actions/workflows/web.yml/badge.svg)
 
-[Руководство по настройке Webpack](https://webpack.js.org/guides/)
-[Руководство по настройке GitHub Actions](https://docs.github.com/en/actions/quickstart)
-
-![CI](https://github.com/<Dmitry-Gavrilov>/<ahj_2-goblin-game>/actions/workflows/web.yml/badge.svg)
-
-[![Build status](https://ci.appveyor.com/api/projects/status/i7dnhp9kajxfs7y6?svg=true)](https://ci.appveyor.com/project/Dmitry-Gavrilov/ahj_2-goblin-game)
 
 
